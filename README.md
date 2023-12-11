@@ -50,4 +50,16 @@ This project is a text summarizer implemented using the T5 Transformer model wit
 
 
 # Results 
+
+To determine the performance of our model, we use a
+measure called ROUGE-score, which measures how well a
+generated text (like a summary) matches a reference or a
+set of reference texts. Two of main types of ROUGE scores:
+• Rouge N: Measures how many sequences of n consecutive words (n-grams) in the generated text match those
+in the reference text. ROUGE N is further classified
+into many types, two of which are ROUGE 1 and
+ROUGE 2.
+• Rouge L: Examines the longest common subsequences
+of words between the generated and reference summaries.
+
 <img width="425" alt="Rouge_score" src="https://github.com/DataScience-ArtificialIntelligence/ExtractiveTextSummarizer/assets/99867617/79d1ea99-95a7-40fa-b295-4fc3357e2f4e">
