@@ -4,7 +4,8 @@
 
 # Text Summarizer with T5 Transformer Model
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<img src="https://cdn-images-1.medium.com/max/932/1*iJcUH1F0TmCQE5p2wQt9og.png" width="200" />
+
 
 ## Overview
 
