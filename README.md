@@ -65,3 +65,14 @@ ROUGE 2.
 of words between the generated and reference summaries.
 
 <img width="425" alt="Rouge_score" src="https://github.com/DataScience-ArtificialIntelligence/ExtractiveTextSummarizer/assets/99867617/79d1ea99-95a7-40fa-b295-4fc3357e2f4e">
+
+## Acknowledgements
+We would like to express our sincere gratitude to Dr. Animesh Chaturvedi for providing us with the invaluable opportunity to work on this project exploring text summarization, a cutting-edge technology within the field of Artificial Intelligence. His unwavering support and guidance throughout this project were instrumental in our success.
+
+We specifically acknowledge Dr. Chaturvedi's role in:
+
+Motivating us to explore the fascinating world of AI and text summarization: His enthusiasm and passion for the field ignited our own curiosity and drive to delve deeper into this exciting area.
+Providing expert guidance and feedback: He consistently offered insightful suggestions and constructive criticism, which helped us refine our approach and improve our understanding of the subject matter.
+Creating a supportive and stimulating learning environment: He fostered a collaborative atmosphere that encouraged open discussion and creative thinking, enabling us to learn from each other and grow as individuals.
+Sharing his vast knowledge and experience: He generously imparted his deep understanding of the field, providing us with valuable theoretical and practical knowledge that we will carry forward in our future endeavors.
+We are immensely grateful to Dr. Chaturvedi for his dedication, mentorship, and unwavering support. This project would not have been possible without his invaluable contributions.
