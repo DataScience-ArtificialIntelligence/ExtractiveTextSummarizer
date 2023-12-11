@@ -4,7 +4,7 @@
 
 # Text Summarizer with T5 Transformer Model
 
-<img src="https://cdn-images-1.medium.com/max/932/1*iJcUH1F0TmCQE5p2wQt9og.png" width="200" />
+<img src="https://cdn-images-1.medium.com/max/932/1*iJcUH1F0TmCQE5p2wQt9og.png" width="2000" height="2000" />
 
 
 ## Overview
