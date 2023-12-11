@@ -47,3 +47,7 @@ This project is a text summarizer implemented using the T5 Transformer model wit
    pipenv run python summarizer.py --input_file input.txt --output_file output_summary.txt
 
 4. Explore the options and customize the summarizer for your needs
+
+
+# Results 
+<img width="425" alt="Rouge_score" src="https://github.com/DataScience-ArtificialIntelligence/ExtractiveTextSummarizer/assets/99867617/79d1ea99-95a7-40fa-b295-4fc3357e2f4e">
