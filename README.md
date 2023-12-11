@@ -34,3 +34,16 @@ This project is a text summarizer implemented using the T5 Transformer model wit
 
    ```bash
    git clone https://github.com/yourusername/text-summarizer.git
+
+2. Install dependencies:
+
+   ```bash
+      cd text-summarizer
+      pipenv install
+
+3. Run the summarizer script:
+
+   ```bash
+   pipenv run python summarizer.py --input_file input.txt --output_file output_summary.txt
+
+4. Explore the options and customize the summarizer for your needs
