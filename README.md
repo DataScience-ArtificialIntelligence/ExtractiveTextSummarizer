@@ -68,7 +68,6 @@ of words between the generated and reference summaries.
 
 ## Acknowledgements
 We would like to express our sincere gratitude to Dr. Animesh Chaturvedi for providing us with the invaluable opportunity to work on this project exploring text summarization, a cutting-edge technology within the field of Artificial Intelligence. 
-Providing expert guidance and feedback: He consistently offered insightful suggestions and constructive criticism, which helped us refine our approach and improve our understanding of the subject matter.
-Creating a supportive and stimulating learning environment: He fostered a collaborative atmosphere that encouraged open discussion and creative thinking, enabling us to learn from each other and grow as individuals.
+
 Sharing his vast knowledge and experience: He generously imparted his deep understanding of the field, providing us with valuable theoretical and practical knowledge that we will carry forward in our future endeavors.
 We are immensely grateful to Dr. Chaturvedi for his dedication, mentorship, and unwavering support. This project would not have been possible without his invaluable contributions.
