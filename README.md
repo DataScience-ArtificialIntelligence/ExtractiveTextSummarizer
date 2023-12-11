@@ -4,14 +4,14 @@
 
 # Text Summarizer with T5 Transformer Model
 
-<img src="https://cdn-images-1.medium.com/max/932/1*iJcUH1F0TmCQE5p2wQt9og.png" width="1000" height="1000" />
+<img src="https://cdn-images-1.medium.com/max/932/1*iJcUH1F0TmCQE5p2wQt9og.png" width="1000" height="750" />
 
 
 ## Overview
 
 This project is a text summarizer implemented using the T5 Transformer model with a beam search algorithm for extractive text summarization. The T5 model, known for its versatility in natural language processing tasks, is fine-tuned on summarization data to generate concise and coherent summaries of input text.
 
-![Summarizer Demo](path/to/demo/screenshot.png)
+
 
 ## Features
 
