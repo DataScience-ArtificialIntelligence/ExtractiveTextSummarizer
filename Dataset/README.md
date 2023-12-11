@@ -1,1 +1,3 @@
+# Description of the Data
 
+#### The data for this research consists of news articles and their summaries and has been downloaded from Kaggle. The data contained six columns: author, date, headlines, read more, text, and ctext. We processed the data to retain only the text and ctext columns. These were subsequently renamed to summary and text and we removed all the rows that contain missing values in either summary or text column. The data set contains total of 4514 rows and 2 columns. The encoding used was "latin," a commonly used format for textual data that ensures accurate character representation and avoids potential errors during processing. The T5 Tokenizer used here in the model maps words in the data set to a unique numerical IDs. 
