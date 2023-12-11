@@ -46,7 +46,9 @@ This project is a text summarizer implemented using the T5 Transformer model wit
    ```bash
    pipenv run python summarizer.py --input_file input.txt --output_file output_summary.txt
 
-4. Explore the options and customize the summarizer for your needs
+4. Upload the dataset file in your CoLab folder and change the pathway of the dataset file to the one that you just uploaded in your CoLab. Now, run the code
+
+5. Explore the options and customize the summarizer for your needs
 
 
 # Results 
